@@ -40,3 +40,5 @@ form.addEventListener('submit', function (e) {
   document.querySelector('textarea[name="message"]').value = '';
 });
 fillFormFieldsFromLocalStorage();
+
+// кінець
